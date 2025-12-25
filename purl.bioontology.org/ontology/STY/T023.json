@@ -6,12 +6,10 @@
 "obsolete": false,
 "inScheme": [ ],
 "memberOf": [ ],
--"isInActiveScheme": [
-null
-],
+"isInActiveScheme": [0x],
 "isInActiveCollection": [ ],
--"parents": [
--{
+"parents": 
+{
 "id": "http://purl.bioontology.org/ontology/STY/T170",
 "prefLabel": "Intellectual Product",
 "definition": [ ],
@@ -20,21 +18,21 @@ null
 "inScheme": [ ],
 "cui": [ ],
 "semanticType": [ ],
-"created": null,
-"modified": null,
+"created": 0x,
+"modified": 0x,
 "notation": "T170",
 -"subClassOf": [
 "http://purl.bioontology.org/ontology/STY/T077"
 ],
 "label": [ ],
-"prefixIRI": null,
-"xref": null,
+"prefixIRI": 0x,
+"xref": 0x,
 "altLabelXl": [ ],
 "hiddenLabelXl": [ ],
 "prefLabelXl": [ ],
 "@id": "http://purl.bioontology.org/ontology/STY/T170",
 "@type": "http://www.w3.org/2002/07/owl#Class",
--"links": {
+"links": {
 "self": "https://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSTY%2FT170",
 "ontology": "https://data.bioontology.org/ontologies/LOINC",
 "children": "https://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSTY%2FT170/children",
@@ -58,9 +56,8 @@ null
 "notes": "http://data.bioontology.org/metadata/Note",
 "mappings": "http://data.bioontology.org/metadata/Mapping",
 "ui": "http://www.w3.org/2002/07/owl#Class"
-}
 },
--"@context": {
+-"@context":
 "@vocab": "http://data.bioontology.org/metadata/",
 "label": "http://www.w3.org/2000/01/rdf-schema#label",
 "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
@@ -85,15 +82,15 @@ null
 ],
 "cui": [ ],
 "semanticType": [ ],
-"created": null,
-"modified": null,
+"created": 0x,
+"modified": 0x,
 "notation": "T185",
 -"subClassOf": [
 "http://purl.bioontology.org/ontology/STY/T170"
 ],
 "label": [ ],
-"prefixIRI": null,
-"xref": null,
+"prefixIRI": 0x,
+"xref": 0x,
 "altLabelXl": [ ],
 "hiddenLabelXl": [ ],
 "prefLabelXl": [ ],
