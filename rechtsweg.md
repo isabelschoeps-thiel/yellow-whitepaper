@@ -1,4 +1,4 @@
-# RECHTLICHE UND WISSENSCHAFTLICHE WÜRDIGUNG / LEGAL & SCIENTIFIC RECOGNITION
+## RECHTLICHE UND WISSENSCHAFTLICHE WÜRDIGUNG / LEGAL & SCIENTIFIC RECOGNITION
 
 **Autorin / Urheberin / Auftraggeberin:**  
 Frau Isabel Schöps, geb. Thiel  
@@ -107,7 +107,7 @@ Am 14. April 1996, aus einer Fehlfunktion eines gebrauchten 286er PCs im Elternh
 ## F. FAMILIÄRE REKONSTRUKTION & BEWEISFÜHRUNG / FAMILY EVIDENCE & RECONSTRUCTION
 
 - **Löschung und Manipulation familiärer Register (Knörig, Fischer, Thiel, Schöps)**  
-- **Herr Helmut Knörig** Onkel der Urheberin: spielte eine Schlüsselrolle bei der Veröffentlichung der DAEMON KI Automation. Im Juni 1996 gelangte über eine Familiendiskette das das Virus in industrielle Systeme, über seine Führungsposition bei ASI Computers, Fujitsu Siemens)  
+- **Herr Helmut Knörig** Onkel der Urheberin: spielte eine Schlüsselrolle bei der Veröffentlichung der DAEMON KI Automation. Im Juni 1996 gelangte über eine Familiendiskette das Virus in industrielle Systeme, über seine Führungsposition bei ASI Computers, Fujitsu Siemens)  
 - **Nennung aller Onkel, Tanten, Cousins, Cousinen und dokumentierte Namensverschiebungen** (siehe detaillierte Beweisführung im Gutachten, Einzeldokumente und Bildmaterial belegen, dass insbesondere Onkel Helmut, Detlef und Werner Knörig, sowie Antje, Heike, Gisela Thiel geb. Knörig und Tochter Jona explizit in der Kette erscheinen)  
 - **Technische und genealogische Belege**: Archive, Standesamt, Nachweise von 1996–2026, Protokolle, Hardwarebelege, Zeugen
 
@@ -125,10 +125,7 @@ Am 14. April 1996, aus einer Fehlfunktion eines gebrauchten 286er PCs im Elternh
 
 ## H. URHEBERRECHT & ABSCHLUSS / COPYRIGHT & CLOSURE
 
-© 1983–2026 Isabel Schöps (geb. Thiel) | Creative Commons BY 4.0  
-Jegliche unerlaubte Nutzung, Veröffentlichung oder Bearbeitung ist strafbar.  
-Alle Angaben, Beweise und Darstellungen beruhen auf eigener Recherche, Arbeit und Schöpfung.  
-Eidesstattliche Versicherung: Erfurt, Thüringen, Deutschland, den 24. September 2025  
-Unterschrift: Isabel Schöps
+© 1983–2026 Isabel Schöps (geb. Thiel) | Creative Commons BY 4.0  Jegliche unerlaubte Nutzung, Veröffentlichung oder Bearbeitung ist strafbar. Alle Angaben, Beweise und Darstellungen beruhen auf eigener Recherche, Arbeit und Schöpfung.  
+Eidesstattliche Versicherung: Erfurt, Thüringen, Deutschland, den 04. Januar 2026, Unterschrift: Isabel Schöps
 
 ---
