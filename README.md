@@ -50,8 +50,9 @@ Das Yellow White Paper bildet den zentralen Referenzband zur forensischen, techn
 
 ## Publikationshinweis  
 
-Die Erstveröffentlichung und Referenzierung des Yellow White Paper erfolgt über ausgewählte Publisher- und Archivplattformen, darunter GitHub, Zenodo sowie weitere wissenschaftliche und institutionelle Träger.  
-Das vollständige Werk wird in der zweiten Kalenderwoche des Januar 2026 der Öffentlichkeit vorgestellt.
+Die Erstveröffentlichung und Referenzierung des Yellow Whitepaper erfolgt über ausgewählte Publisher- und Archivplattformen, darunter GitHub, Zenodo, Oxford Press, Cambridge Press, Harvard Press, CERN, Springer Nature Verlag, ab 07. Januar 2026, ab 24.01.2026 ist es öffentlichen Pressehäusern, freien Journalisten und Medien erlaubt The Yellow Whitepaper zur medialen Rehabillation heranzuziehen, sowie weitere wissenschaftliche und institutionelle Träger.  
+
+Das vollständige Werk wird in der zweiten Kalenderwoche des Januar 2026 der freigegeben und vorgestellt.
 
 ---
 
@@ -60,9 +61,11 @@ Das vollständige Werk wird in der zweiten Kalenderwoche des Januar 2026 der Öf
 Dokumente, die den Titel **THE YELLOW WHITE PAPER** führen, jedoch nicht die Urheberschaft von **Isabel Schöps, geborene Thiel**, explizit ausweisen und nicht über die benannten Plattformen publiziert wurden, gelten als nicht autorisierte Kopien.
 **Kennung, Referenzpräfix:** YWP-1-IST-SIA
 
-**Autorin, Urheberin, im Auftrag:** Frau Isabel Schöps geborene Thiel
+**Autorin, Urheberin, im Auftrag:**
+Frau Isabel Schöps geborene Thiel
 
-**Meldeanschrift und Wohnort:*+ Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland
+**Meldeanschrift und Wohnort:**
+Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland
 
 **Developer e-Mail:** si_foundation@icloud.com (Apple Entwickler)
 
