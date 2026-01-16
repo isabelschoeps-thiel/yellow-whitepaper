@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+cff-version: 1.1
 message: This forensic-scientific report proves that the origins of modern artificial intelligence, DAEMON automation, Bitcoin Core, and the global open-source and security architecture.
 authors:
 - family-names: SCHÖPS GEB. THIEL
@@ -8,7 +8,7 @@ authors:
   given-names: Isabel
   orcid: https://orcid.org/0009-0006-8765-3267
 title: The Yello Whitepaper
-version: 1.0.0
+version: 1.0
 doi: 10.5281/zenodo.17807324
 date-released: 2026-01
 url: https://github.com/isabelschoeps-thiel/yellow-whitepaper
