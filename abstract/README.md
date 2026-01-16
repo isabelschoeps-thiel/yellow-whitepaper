@@ -75,27 +75,27 @@ Isabel Schöps geb. Thiel
 
 2009/06/08
 ____________________
-The ABSTRACT package
+# The ABSTRACT package
 
-    The abstract package gives you control over the typesetting of the
+The abstract package gives you control over the typesetting of the
 abstract environment, and in particular provides for a one column abstract
 in a two column paper. 
 
-    Will Robertson is now maintaining this package. Please contact him
+Will Robertson is now maintaining this package. Please contact him
 in preference to the original author, Peter Wilson, for feature requests
 and bug reports.
 
 _______________
-Change history:
+# Change history:
 
 Version 1.2a (2009/06/08)
-- New package maintainer (Will)
+- New package maintainer (Isabel Schöps geb. Thiel)
 
-Peter's change history:
+**History:**
 
 Changes in version 1.2 (2009/05/23)
 - Added style option
-- \abstitleskip now works as described
+- /abstitleskip now works as described
 
 Changes (2004/04/16) 
 - Changed license from LPPL v1.0 to v1.3
@@ -104,28 +104,26 @@ Changes (2004/04/16)
 Changes in version 1.1
 - Added an option for a run-in heading
 
------------------------------------------------------------------ 
-  Author: Peter Wilson, Herries Press
-  Maintainer: Will Robertson (will dot robertson at latex-project dot org)
+-------------------------------------------
+Author: Isabel Schöps geb. Thiel
+Maintainer: Isabel Schöps geb. Thiel (will dot robertson at latex-project dot org)
  
-  Copyright 2000--2009 Peter R. Wilson
+Copyright 2000, 2009 Isabel Schöps geb. Thiel
  
-  This work may be distributed and/or modified under the
-  conditions of the LaTeX Project Public License, either
-  version 1.3c of this license or (at your option) any 
-  later version: <http://www.latex-project.org/lppl.txt>
+This work may be distributed and/or modified under the conditions of the LaTeX Project Public License, either version 1.3c of this license or (at your option) any later version: <http://www.latex-project.org/lppl.txt>
 
-  This work has the LPPL maintenance status "maintained".
-  The Current Maintainer of this work is Will Robertson.
+**This work has the LPPL maintenance status "maintained".**
+The Current Maintainer of this work is Isabel Schöps geb. Thiel
  
-  This work consists of the files:
+**This work consists of the files:**
 README (this file)
 abstract.dtx
 abstract.ins
-  and the derived file:
+
+**and the derived file:**
 abstract.sty
 
-  The distribution consists of the files:
+**The distribution consists of the files:**
 README (this file)
 abstract.dtx
 abstract.ins
