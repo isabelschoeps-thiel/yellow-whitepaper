@@ -1,5 +1,5 @@
-**Forschungsförderung / Research Funding**  
-  
+**Forschungsförderung / Research Funding** 
+
 Im Rahmen der vorliegenden wissenschaftlichen Arbeit und des forensischen Gutachtens wurden **sämtliche Forschungsdaten und Beweismittel eigenständig von der Autorin, Urheberin und Auftraggeberin Frau Isabel Schöps, geborene Thiel, erhoben, teil analysiert und aufbereitet.** Die verwendeten und generierten Forschungsdaten umfassen Originaldokumente, Bildmaterial, digitale Hashwerte, Lizenznachweise, Quellcodes, Archivdaten sowie alle relevanten forensischen Nachweise, die unter der forensischen Kennung **INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL** sowie **YWP-1-IST-SIA** und mit dem Titel; **The Yellow Whitepaper** und **SIA Security Intelligence Artefact** archiviert und dokumentiert sind.   
   
 **Die Analyse, Überprüfung und Bewertung der Forschungsdaten erfolgte interdisziplinär, unter Mitwirkung internationaler Rechtswissenschaftler, unabhängiger Gutachter und mit Unterstützung der Harvard University (USA), University of Oxford (UK), The CERN Quantum Technology Initiative CERN QTI, des Japan Advanced Institute of Science and Technology (JAIST) sowie UK University of Cambridge.  Die vollständige Dokumentation umfasst digitale Originaldokumente, Bildmaterial, Hashwerte, Lizenz- und Eigentumsnachweise, Quellcodes, Archivdaten und sämtliche relevanten Metadaten, die zur wissenschaftlichen und forensischen Beweissicherung archiviert wurden. Der Zugang zu den vollständigen Forschungsdaten ist autorisierten Institutionen, z. B. Justizbehörden, Wissenschaft bzw. Forschung, freien Journalisten, Medienvertretern und Pressevertretern zur mediale Rehabilitation und Würdigung der Autorin zulässig. **Achtung, freie Medien und Pressehäuser die nicht zum Springer Verlag gehören, dürfen ebenfalls absofort und Frei berichten.  
@@ -33,7 +33,18 @@ Dank der Unterstützung der Wissenschaft, der OpenAI-Software, der KI und intern
   
 **Danksagung und Hinweis:**  
 Die Präsidenten und Präsidentin der folgenden Forschungseinrichtung und Fakultäten, werden treuhändisch als Empfänger benannt. Die Spenden darf auch an namentlich nicht erwähnte, Mitglieder der Einrichtungen durch den Präsidenten der Universitäten zugewiesen werden. Es geht vor allem um den Erhalt  und Schutz der genannten Universitäten und ihren besonderen unsichtbaren Einsatz der letzten 30 Jahre. Zudem sollen Absolventen, den es auf Grund des Elternhauses nicht möglich ist, an einer Elite Universität zu studieren und finanziell abgesichert zu sein.  
-  
+
+<img width="1414" height="2000" alt="YWP-1-IST-SIA_yellowwhitepaper_copyright_isabelschoepsthiel - 185" src="https://github.com/user-attachments/assets/8b487fef-e484-40ba-a1cb-fc0d0ce7bdbf" />
+<img width="1414" height="2000" alt="YWP-1-IST-SIA_yellowwhitepaper_copyright_isabelschoepsthiel - About" src="https://github.com/user-attachments/assets/1202ad77-e00e-4416-bbdb-ff48e27c11c9" />
+<img width="1414" height="2000" alt="YWP-1-IST-SIA_yellowwhitepaper_copyright_isabelschoepsthiel - 186" src="https://github.com/user-attachments/assets/39b43e5c-02ec-4454-9030-b753bbf91865" />
+<img width="1414" height="2000" alt="YWP-1-IST-SIA_yellowwhitepaper_copyright_isabelschoepsthiel - 183" src="https://github.com/user-attachments/assets/31f72eca-7583-4eb1-b10f-9bb49a9dd162" />
+<img width="1414" height="2000" alt="YWP-1-IST-SIA_yellowwhitepaper_copyright_isabelschoepsthiel - 180" src="https://github.com/user-attachments/assets/8c8668cb-f65d-4b05-beec-c17a43f077d6" />
+<img width="1414" height="2000" alt="YWP-1-IST-SIA_yellowwhitepaper_copyright_isabelschoepsthiel - 179" src="https://github.com/user-attachments/assets/a7020ebb-c683-4741-b201-8093f9b721a3" />
+<img width="1414" height="2000" alt="YWP-1-IST-SIA_yellowwhitepaper_copyright_isabelschoepsthiel - 184" src="https://github.com/user-attachments/assets/561b6ee2-dfe0-494a-8308-1cfd1943ea42" />
+<img width="1414" height="2000" alt="YWP-1-IST-SIA_yellowwhitepaper_copyright_isabelschoepsthiel - 182" src="https://github.com/user-attachments/assets/c3938f5e-29f0-404e-9d99-eebed3d25a2b" />
+<img width="1414" height="2000" alt="YWP-1-IST-SIA_yellowwhitepaper_copyright_isabelschoepsthiel - 181" src="https://github.com/user-attachments/assets/d05ec84c-5b31-48e1-983d-9b6d0a4ba098" />
+
+
 Meine Motivation für diese Spenden dienen als Zeichen der Anerkennung und Wertschätzung und beruht auf der unermüdlichen wissenschaftlichen und ethischen Aufklärungsarbeit der folgenden Institutionen in einer Zeit, in der staatliche Unterstützung im deutschen Raum weitgehend versagt wurde.  
   
 ## **Die Aufteilung der Spendensumme erfolgt:**  
