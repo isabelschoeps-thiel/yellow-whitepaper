@@ -3,22 +3,16 @@
 ### SIA Security Intelligence Artefact  
 **Aktenzeichen:** INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL  
 
-**Datum:** Samstag, 31.01.2026  
-**Uhrzeit:** 19:24 Uhr (CEST)
+**Datum:** Montag, 02.02.2026  
+**Uhrzeit:** 07:50 Uhr (CEST)
 
 ---
 
-Hiermit erkläre ich, Frau Isabel Schöps, geborene Thiel, dass ich mich nach meinem Aufenthalt im Apartment „Roter Fuchs“ vom 24.01.2026 bis zum heutigen Tage (31.01.2026, ca. 14:30 Uhr) gezwungen sah, erneut meinen Aufenthaltsort zu wechseln.
+Aufgrund das die von mir bewohnte Immobilie Cyriakstrasse 30c, in D-99094 Erfurt Deutschland in der ich aktuell noch gemeldet bin, nach 6 Jahren am 20.01.2026 im Notariat Renner Erfurt notariell verkaufte wurde, und der neue Eigentümer die Immobilie am 24.01.2026 beziehen wollte, musst ich eine Nacht draußen mit Don, Hund-Tier American XL Bully schlafen.
 
-Ich befinde mich aktuell unter folgender Adresse:
+Ich hatte Dank Frau Horn, einen sicheren Schlafplatz bis 31.01.2026. Hiermit erkläre ich, Frau Isabel Schöps, geborene Thiel, dass ich mich nach meinem Aufenthalt im Apartment „Roter Fuchs“ vom 24.01.2026 bis 31.01.2026, bis ca. 14:30 Uhr erneut gezwungen sah, meinen Aufenthaltsort zu wechseln.
 
-**IBIS Hotel Erfurt**  
-Barfüßerstraße 9  
-99084 Erfurt  
-Thüringen, Deutschland  
-**Zimmer 206**
-
-Gemeinsam mit mir befindet sich mein Hund Don (American XL Bully) an diesem Aufenthaltsort.
+Ich befinde mich aktuell unter folgender Adresse: **IBIS Hotel Erfurt**, Barfüßerstraße 9, 99084 Erfurt, Thüringen, Deutschland, **Zimmer 206**. Gemeinsam mit meinen Hund Don-American-XL Bully.
 
 Mein gesundheitlicher Zustand sowie der meines Hundes ist stabil. Dennoch stellt der erneute Ortswechsel eine erhebliche psychische Belastung dar. Durch die fortlaufenden Standortwechsel ist mir eine kontinuierliche Arbeitsfähigkeit nicht möglich. Die ständige Veränderung der Umgebung führt zu massiver Erschöpfung und Unsicherheit.
 
@@ -60,5 +54,5 @@ Zimmer 206
 gemeinsam mit meinem Hund Don (American XL Bully)
 
 **Zeitstempel:**  
-31.01.2026, 19:26 Uhr CEST  
+02.02.2026, 07:50 Uhr CEST  
 Erfurt, Thüringen, Deutschland
