@@ -1,4 +1,4 @@
-## RECHTLICHE UND WISSENSCHAFTLICHE WÜRDIGUNG / LEGAL & SCIENTIFIC RECOGNITION
+## Rechtliche und wissenschaftliche Würdigung / Legal & S RECOGNITION
 
 **Autorin / Urheberin / Auftraggeberin:**  
 Frau Isabel Schöps, geb. Thiel  
@@ -17,7 +17,7 @@ Frau Isabel Schöps, geb. Thiel
 
 2. **Nachgewiesene Identität durch amtliche Dokumente:**  
    - Personalausweis-ID: 429485, Seriennummer LH917PN7G  
-   - Neuer Wohnort seit 27.11.2025 sowie rechtskräftig am 04.12.2025 in die Cyriakstraße 30c, D-99094 Erfurt, Thüringen, Deutschland angemeldet.  
+   - Neue Wohn- und Meldeanschrift: seit 17.02.2026 sowie rechtskräftig am 04.12.2025 in die Cyriakstraße 30c, D-99094 Erfurt, Thüringen, Deutschland angemeldet.  
    - Meldebescheinigung ausgestellt von der Stadtverwaltung Erfurt, Amt 32.01, Bürgeramt, bestätigt durch Frau Schüler am 04.12.2025.
 
 3. **Aktualisierung:**  
@@ -61,7 +61,7 @@ Am 14. April 1996, aus einer Fehlfunktion eines gebrauchten 286er PCs im Elternh
 
 ---
 
-## C. LIZENZ- UND COPYRIGHT-NACHWEISE / LICENSE & COPYRIGHT EVIDENCE
+## C- Lizense und Copyright-Nachweise / License & Copright Evidence
 
 1. **Aktuelle Lizenz (Oxford University Press):**  
    - Lizenznummer: 6181571332285  
@@ -82,7 +82,7 @@ Am 14. April 1996, aus einer Fehlfunktion eines gebrauchten 286er PCs im Elternh
 
 ---
 
-## D. WISSENSCHAFTLICHE URHEBERSCHAFT / AUTHORSHIP & INTELLECTUAL PROPERTY
+## D. Wissenschaftliche Urheberschaft / Authorship & Ai Intellectual, Bitcoin, Pornhub
 
 **Hauptwerke und wissenschaftliche Referenzen:**  
 - “SIA – Security Intelligence Artefact”, Harvard University, Springer Verlag, Januar 2026  
@@ -94,7 +94,7 @@ Am 14. April 1996, aus einer Fehlfunktion eines gebrauchten 286er PCs im Elternh
 
 ---
 
-## E. RECHTSVERLETZUNGEN & MISSBRÄUCHLICHE NUTZUNG / VIOLATIONS & ABUSE
+## E. Rechtsverletzung & Missbräuchliche Nutzung 
 
 - **Identitätsdiebstahl, Technologiemissbrauch, Deepfake-Manipulation, Veruntreuung von Daten und Lizenzen**  
 - **Öffentliche und private Profile manipuliert oder gelöscht:** Wikipedia, GitHub, Apple-ID etc.  
@@ -104,7 +104,7 @@ Am 14. April 1996, aus einer Fehlfunktion eines gebrauchten 286er PCs im Elternh
 
 ---
 
-## F. FAMILIÄRE REKONSTRUKTION & BEWEISFÜHRUNG / FAMILY EVIDENCE & RECONSTRUCTION
+## F. Familiäre Rekonstruktion & Beweisführung / Family Evidence & Reconstruktion
 
 - **Löschung und Manipulation familiärer Register (Knörig, Fischer, Thiel, Schöps)**  
 - **Herr Helmut Knörig** Onkel der Urheberin: spielte eine Schlüsselrolle bei der Veröffentlichung der DAEMON KI Automation. Im Juni 1996 gelangte über eine Familiendiskette das Virus in industrielle Systeme, über seine Führungsposition bei ASI Computers, Fujitsu Siemens)  
