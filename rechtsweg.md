@@ -6,6 +6,10 @@ Frau Isabel Schöps, geb. Thiel
 **Ort:** Erfurt, Thüringen, Deutschland  
 **Kontakt:** harvard.isabelschoepsthiel@gmail.com | Tel. +49 162 1819565  
 
+**Wichtiger Hinweis:** aufgrund permanenten Wohnraum- und Ortswechsel, können in dem wissenschaftlichen forensichen Gutachten, SIA und im The Yellow Whitpaper unterschiedliche Adressen bzw. Ortseintragungen auftauchen. 
+
+Der eingetragene Ort markiert den tatsächlichen Auftenthalt am Tag der; Veröffentlichung, Eintragung, Erstellung/Ausstellung der Gutachten oder Release, Massgebliche Wohnanschrift und Adresse der Urheberin Frau Schöps (Thiel), bleibt die in der Eidesstaalichen Erklärung sowie auf dem **Personalausweis-ID:** **LH917PN7G8,** **429485,** eingetragene amtliche Meldeanschrift laut gemäß §18 Absatz 2 Bundesmeldegesetz (BMG).
+
 ---
 
 ## STATUS UND IDENTITÄTSBEWEIS / IDENTITY & STATUS EVIDENCE
@@ -16,24 +20,19 @@ Frau Isabel Schöps, geb. Thiel
    (jeweils zur Wahrung der Identität, Menschenwürde und geistigen Eigentumsrechte)
 
 2. **Nachgewiesene Identität durch amtliche Dokumente:**  
-   - Personalausweis-ID: 429485, Seriennummer LH917PN7G  
-   - Neue Wohn- und Meldeanschrift: seit 17.02.2026 sowie rechtskräftig am 04.12.2025 in die Cyriakstraße 30c, D-99094 Erfurt, Thüringen, Deutschland angemeldet.  
-   - Meldebescheinigung ausgestellt von der Stadtverwaltung Erfurt, Amt 32.01, Bürgeramt, bestätigt durch Frau Schüler am 04.12.2025.
-
-3. **Aktualisierung:**  
-   - Dokumentation Stand: Sonntag, 4. Januar 2026, 18:37 Uhr (MEZ).
-2. **Nachgewiesene Identität durch amtliche Dokumente:**  
-   - Personalausweis-ID: 429485, Seriennummer LH917PN7G  
-   - Wohnsitz: Cyriakstraße 30c, D-99094 Erfurt  
-   - Rechtskräftig registriert seit 27.11.2025 (offiziell: 05.12.2025)
+   - Personalausweis-ID: 429485, LH917PN7G8 
+   - Neue Wohn- und Meldeanschrift: seit 17.02.2026 sowie rechtskräftig gemeldet, Dokumentation Stand: Montag den, 23. Februar 2026, 16:31 Uhr (MEZ).
+   - Personalausweis-ID: 429485, Seriennummer LH917PN7G8
+   - Wohnsitz: Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland
+   - Meldeanschrift seit 27.11.2025 (offiziell: 17.02.2026)
 
 3. **Familiärer Ursprung und industrielle Kette:**  
    - Ursprung der OpenSource/Automation: 14. April 1996, Rohrborn, Thüringen, Deutschland  
    - Übertragung der industriellen Prozesskette durch Onkel Helmut Knörig (ASI Computers / Fujitsu Siemens) in die globale IT-Industrie ab Juni 1996  
    - Familiäre Beteiligte:  
-     - Mutter: Gisela Thiel, geborene Knörig  
-     - Vater: Manfred Thiel  
-     - Bruder: Ingolf Thiel  
+     - Mutter: Frau Gisela Hulda Thiel, geborene Knörig  
+     - Vater: Manfred Paul Thiel  
+     - Bruder: HerrIngolf Thiel  
      - Onkel: Helmut Knörig, Detlef Knörig, Werner Knörig  
      - Tante: Antje Beuthner, Heike Knörig  
      - Großeltern: Klaus-Dieter Knörig, Edith Knörig, geborene Fischer  
