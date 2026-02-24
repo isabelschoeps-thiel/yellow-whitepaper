@@ -12,7 +12,7 @@ Der eingetragene Ort markiert den tatsächlichen Auftenthalt am Tag der; Veröff
 
 ---
 
-## STATUS UND IDENTITÄTSBEWEIS / IDENTITY & STATUS EVIDENCE
+## Status und Identitätsnachweis / Identity & Status Evidence
 
 1. **Rechtskräftige Strafanzeigen:**  
    - ST/0203129/2025, Polixa, Polizeiinspektion Erfurt Nord, 06.08.2025  
@@ -24,7 +24,7 @@ Der eingetragene Ort markiert den tatsächlichen Auftenthalt am Tag der; Veröff
    - Neue Wohn- und Meldeanschrift: seit 17.02.2026 sowie rechtskräftig gemeldet, Dokumentation Stand: Montag den, 23. Februar 2026, 16:31 Uhr (MEZ).
    - Personalausweis-ID: 429485, Seriennummer LH917PN7G8
    - Wohnsitz: Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland
-   - Meldeanschrift seit 27.11.2025 (offiziell: 17.02.2026)
+   - Meldeanschrift seit 17.02.2026, und mit Hund-Tier, Don American-XL-Bully, seit 16.02.2026
 
 3. **Familiärer Ursprung und industrielle Kette:**  
    - Ursprung der OpenSource/Automation: 14. April 1996, Rohrborn, Thüringen, Deutschland  
@@ -41,7 +41,7 @@ Der eingetragene Ort markiert den tatsächlichen Auftenthalt am Tag der; Veröff
 
 ---
 
-## B. TECHNISCHER URSPRUNG & BEWEISKETTE / TECHNICAL ORIGIN & CHAIN OF CUSTODY
+## B. Technischer Ursprung & Beweisskette / Technical Origins & Chain of Cutody
 
 ### Ursprung der OpenSource, KI- und Automationsgeschichte (Rohrborn, Thüringen, 1996):
 
