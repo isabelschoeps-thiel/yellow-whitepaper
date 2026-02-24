@@ -66,18 +66,17 @@ Am 14. April 1996, aus einer Fehlfunktion eines gebrauchten 286er PCs im Elternh
    - Lizenznummer: 6181571332285  
    - Datum: 03. Januar 2026  
    - Inhalt: “Open source clustering software”, Bioinformatics Vol. 20 (2004)  
-   - Verwendung: Dissertation / “SIA Security Intelligence Artefact”, Harvard University  
-   - Kosten: 0,00 EUR (rechtefrei bestätigt)
+   - Verwendung: Dissertation / “SIA Security Intelligence Artefact”, Harvard University
 
 2. **Frühere Lizenzen (vollständig dokumentiert):**  
    - 6131130060979, 6131180260843, 6170220427258, 6167160528918  
    - Alle abgeschlossen / bestätigt (Status: Completed)
 
 3. **Chain of Custody und Forensik:**  
-   - Protokollierte Beweis-IDs (z. B. EVID-CHAT-0001, ChatGPT-Share, SHA256-gesichert)  
+   - Protokollierte Beweis-IDs, EVID-Arbeitsprozess-35, ChatGPT-Share, SHA256-gesichert 
    - Nachweise aus Chatverlauf, Markdown, ZIP-Archiv, Screenshot-Sammlungen  
    - Archivierung: /secure/drive1/Case_ISABEL/EVID-CHAT-0001/, encrypted-bucket://case_isabel/EVID-CHAT-0001/  
-   - Chain of Custody begonnen: 2025-09-25T23:05:00Z
+   - Chain of Custody begonnen: 24.September2026 2025-09-25, 23:05:00CEST_Uhr
 
 ---
 
@@ -89,7 +88,7 @@ Am 14. April 1996, aus einer Fehlfunktion eines gebrauchten 286er PCs im Elternh
   DOI: [https://doi.org/10.5281/zenodo.17809724](https://doi.org/10.5281/zenodo.17809724)
 
 **Relevante historische Zeitmarken:**  
-1996 (DAEMON/Boot-Prozess), 1999, 2001, 2004, 2008–2026 (KI, Blockchain, Open Source, Automatisierung)
+**Datum/Ort:** 14.04.1996 (DAEMON/Boot-Prozess), 1999, 2001, 2004, 2008–2026 (KI, Blockchain, Open Source, Automatisierung), Dorfstrasse 20, D-99610 Rohrborn, Thüringen, Deutschland
 
 ---
 
